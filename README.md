@@ -1,21 +1,15 @@
-Create an interactive dice roller app - Solution Code
-=======================================
+# Dice Roller
 
-Solution code for the Android Basics with Compose: Create an interactive dice roller app.
+## About The Project
 
-Introduction
-------------
-In this codelab, you will build out the Dice Roller app from start to finish using Compose.
+This is an app to roll a dice by clicking a button.
 
-Pre-requisites
---------------
+_From Android Studio Kotlin tutorials._
 
-You need to know:
-- How to create a new project in Android Studio
-- How to build a basic layout with Compose.
-- How to write control flow statements (if / else, when statements).
+### Built With
 
-Getting Started
----------------
+* Kotlin
+* Jetpack Compose
 
-1. Download and run the app.
+## Clone the project:
+`` git clone https://github.com/Christellaa/DiceRoller.git ``
